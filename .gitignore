@@ -1,0 +1,15 @@
+# Dependencias y entornos locales
+node_modules/
+dist/
+coverage/
+
+# Archivos del sistema operativo y del editor
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+
+# Logs
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
