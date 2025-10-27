@@ -8,3 +8,6 @@ Formulario de alta de clientes con los campos:
   1. Completar Nombre.
   2. Completar Teléfono.
   3. Guardar.
+
+## v1.1
+    El campo **Teléfono** solo acepta numeros del 0-9

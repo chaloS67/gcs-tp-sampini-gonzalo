@@ -12,4 +12,16 @@
 ## v1.0
 - Envío básico sin validación estricta del campo **Teléfono**.
 
+## v1.1
+-# Manual Técnico - Versión 1.1
+
+## Cambios Realizados
+- Se agregó la función `validarTelefono(tel)` en `src/script.js`.
+- La función usa una expresión regular para permitir solo dígitos:
+
+```javascript
+function validarTelefono(tel) {
+  return 
+
+-- Se agega el test en jest
 
