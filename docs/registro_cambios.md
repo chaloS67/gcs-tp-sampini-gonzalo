@@ -19,3 +19,15 @@
   - *Tag:* `v1.0`
   - *Responsable:* Gonzalo Sampini  
   - *Estado:* Aprobado como línea base inicial
+
+--------------------------------------------------------------------------------------------------------
+ ## Version v1.1
+ **fecha** 27/10/2025
+ **Descripcion**  Se implementa validacion para el campo telefono para aceptar solo numeros
+ **Ticket relacionado** (#101)
+
+ | ID | Tipo | Ruta / Identificador | Descripción del cambio |
+|----|------|----------------------|-------------------------|
+| ECS-002 | Código | `src/script.js` | Se agrega función validarTelefono() y control en envío del formulario. |
+| ECS-003 | Prueba | `test/test_validacion.test.js` | Se agrega test para validar solo números en teléfono. |
+| ECS-008 | Doc | `docs/registro_cambios.md` | Se actualiza con la versión v1.1. |
